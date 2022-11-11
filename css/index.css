@@ -131,6 +131,12 @@
     gap: 91px;
     padding-bottom: 100px;
 }
+.mac img{
+
+ max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
 
 .join__other {
     text-align: center;
@@ -327,6 +333,9 @@
         padding-top: 195px;
     
     }
+    .special__busines{
+        text-align: center;
+    }
 
 
 }
@@ -412,9 +421,13 @@
         text-align: center;
         margin-left: 50px;
     }
+    .special__busines{
+        text-align: center;
+    }
 
     .special__busines img {
         margin-left: 90px;
+        /* text-align: center; */
     }
 
     .mac {
@@ -492,4 +505,8 @@
         flex-direction: column;
         
      }
+    
+    .special__busines{
+        text-align: center;
+    }
 }
